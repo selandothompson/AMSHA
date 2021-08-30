@@ -467,10 +467,9 @@ body .page-links>span,
 body .page-links>a:hover,
 body .nav-links>span.current,
 body .nav-links>a:hover {
-	background-color:#ffe900 ;
+	background-color: #3db166;
 	color: #fff;
 }
-
 
 .page-links {
 	clear: left;
