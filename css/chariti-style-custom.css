@@ -184,9 +184,9 @@ body.single-post .chariti-sidebar-style-none, body.blog .chariti-sidebar-style-n
 .chariti-logo-right-text .chariti-logo-right-text-icon{ color: #f3f3f3; } 
 .chariti-logo-right-text .chariti-logo-right-text-title{ color: #ffffff; } 
 .chariti-logo-right-text .chariti-logo-right-text-caption{ color: #a8dac5; } 
-.chariti-navigation .chariti-navigation-slide-bar, .chariti-navigation .chariti-navigation-slide-bar-style-dot:before{ border-color: #3bcf93; }.chariti-navigation .chariti-navigation-slide-bar:before{ border-bottom-color: #3bcf93; } 
+.chariti-navigation .chariti-navigation-slide-bar, .chariti-navigation .chariti-navigation-slide-bar-style-dot:before{ border-color: #586ba4; }.chariti-navigation .chariti-navigation-slide-bar:before{ border-bottom-color: #586ba4; } 
 .sf-menu > li > a, .sf-vertical > li > a{ color: #161616; } 
-.sf-menu > li > a:hover, .sf-menu > li.current-menu-item > a, .sf-menu > li.current-menu-ancestor > a, .sf-vertical > li > a:hover, .sf-vertical > li.current-menu-item > a, .sf-vertical > li.current-menu-ancestor > a{ color: #3bcf93; } 
+.sf-menu > li > a:hover, .sf-menu > li.current-menu-item > a, .sf-menu > li.current-menu-ancestor > a, .sf-vertical > li > a:hover, .sf-vertical > li.current-menu-item > a, .sf-vertical > li.current-menu-ancestor > a{ color: #586ba4; } 
 .sf-menu > .chariti-normal-menu li, .sf-menu > .chariti-mega-menu > .sf-mega, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li{ background-color: #f7f7f7; } 
 .sf-menu > li > .sub-menu a, .sf-menu > .chariti-mega-menu > .sf-mega a, .sf-vertical ul.sub-menu li a{ color: #757575; } 
 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .chariti-mega-menu > .sf-mega a:hover, .sf-menu > .chariti-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a{ color: #3bcf93; } 
@@ -208,9 +208,9 @@ ul.mm-listview li{ border-color: #3f3f3f; }
 .chariti-main-menu-cart > .chariti-top-cart-count{ color: #ffffff; } 
 .chariti-body .chariti-main-menu-right-button{ color: #ffffff; } 
 .chariti-body .chariti-main-menu-right-button:hover{ color: #deefea; } 
-.chariti-body .chariti-main-menu-right-button{ background-color: #3bcf93; } 
+.chariti-body .chariti-main-menu-right-button{ background-color: #586ba4; } 
 .chariti-body .chariti-main-menu-right-button:hover{ background-color: #3bcf93; } 
-.chariti-body .chariti-main-menu-right-button{ border-color: #3bcf93; } 
+.chariti-body .chariti-main-menu-right-button{ border-color: #586ba4; } 
 .chariti-body .chariti-main-menu-right-button:hover{ border-color: #3bcf93; } 
 .chariti-body .chariti-main-menu-right-button.chariti-button-2{ color: #ffffff; } 
 .chariti-body .chariti-main-menu-right-button.chariti-button-2{ background-color: #388a69; } 
@@ -387,7 +387,7 @@ blockquote, q, pre{ background-color: #f5f5f5; }
 .gdlr-core-blockquote-item-content, .gdlr-core-blockquote-item-author, pre{ color: #4e4e4e; } 
 .gdlr-core-body .gdlr-core-load-more, .gdlr-core-body .gdlr-core-button, .chariti-body .chariti-button, .chariti-body input[type="button"], .chariti-body input[type="submit"]{ color: #ffffff; } 
 .gdlr-core-body .gdlr-core-load-more:hover, .gdlr-core-body .gdlr-core-button:hover, .chariti-body .chariti-button:hover{ color: #ffffff; } 
-.gdlr-core-body .gdlr-core-load-more, .gdlr-core-body .gdlr-core-button, .chariti-body .chariti-button, .chariti-body input[type="button"], .chariti-body input[type="submit"]{ background-color: #3bcf93; }.chariti-blog-style-4 .chariti-comments-area .form-submit input[type="submit"]{ box-shadow: 5px 5px 20px rgba(59, 207, 147, 0.4); -webkit-box-shadow: 5px 5px 20px rgba(59, 207, 147, 0.4); -moz-box-shadow: 5px 5px 20px rgba(59, 207, 147, 0.4); } 
+.gdlr-core-body .gdlr-core-load-more, .gdlr-core-body .gdlr-core-button, .chariti-body .chariti-button, .chariti-body input[type="button"], .chariti-body input[type="submit"]{ background-color: #586ba4; }.chariti-blog-style-4 .chariti-comments-area .form-submit input[type="submit"]{ box-shadow: 5px 5px 20px rgba(59, 207, 147, 0.4); -webkit-box-shadow: 5px 5px 20px rgba(59, 207, 147, 0.4); -moz-box-shadow: 5px 5px 20px rgba(59, 207, 147, 0.4); } 
 .gdlr-core-body .gdlr-core-load-more:hover, .gdlr-core-body .gdlr-core-button:hover{ background-color: #2F2F2F; } 
 .gdlr-core-body .gdlr-core-button-with-border{ border-color: #383838; } .gdlr-core-body .gdlr-core-button-with-border.gdlr-core-button-transparent{ color: #383838; } 
 .gdlr-core-body .gdlr-core-button-with-border:hover{ border-color: #000000; }.gdlr-core-body .gdlr-core-button-with-border.gdlr-core-button-transparent:hover{ color: #000000; } 
@@ -401,7 +401,7 @@ blockquote, q, pre{ background-color: #f5f5f5; }
 .gdlr-core-counter-item-bottom-text{ color: #393939; } 
 .gdlr-core-column-service-item .gdlr-core-column-service-icon{ color: #9d9d9d; } 
 .gdlr-core-column-service-item .gdlr-core-icon-style-round i{ background-color: #f3f3f3; } 
-.gdlr-core-column-service-item .gdlr-core-column-service-title{ color: #383838; } 
+.gdlr-core-column-service-item .gdlr-core-column-service-title{ color: #586ba4; } 
 .gdlr-core-column-service-item .gdlr-core-column-service-caption{ color: #747474; } 
 .gdlr-core-dropdown-tab .gdlr-core-dropdown-tab-title, .gdlr-core-dropdown-tab .gdlr-core-dropdown-tab-head-wrap{ background-color: #f7c02e; } 
 .gdlr-core-dropdown-tab .gdlr-core-dropdown-tab-title{ color: #252525; } 
@@ -482,7 +482,7 @@ table tr:nth-child(even){ color: #949494; }
 .gdlr-core-testimonial-item .gdlr-core-testimonial-position{ color: #3b3b3b; } 
 .gdlr-core-testimonial-item .gdlr-core-testimonial-quote{ color: #282828; } 
 .gdlr-core-testimonial-item .gdlr-core-testimonial-frame{ background-color: #ffffff; } 
-.gdlr-core-title-item .gdlr-core-title-item-title, .gdlr-core-title-item .gdlr-core-title-item-title a{ color: #383838; } 
+.gdlr-core-title-item .gdlr-core-title-item-title, .gdlr-core-title-item .gdlr-core-title-item-title a{ color: #586ba4; } 
 .gdlr-core-title-item .gdlr-core-title-item-caption{ color: #747474; } 
 .woocommerce .star-rating span, .single-product.woocommerce #review_form #respond p.stars a, .single-product.woocommerce div.product .product_meta, .single-product.woocommerce div.product .product_meta a{ color: #3bcf93; }.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, html .woocommerce input.button, html .woocommerce span.onsale{ background-color: #3bcf93; } 
 span.woocommerce-Price-amount.amount{ color: #707070; }.chariti-top-cart-content-wrap .chariti-highlight, .chariti-top-cart-item-wrap .chariti-top-cart-price-wrap .woocommerce-Price-amount.amount{ color: #707070; } 
@@ -492,7 +492,7 @@ span.woocommerce-Price-amount.amount{ color: #707070; }.chariti-top-cart-content
 .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover{ color: #ffffff; } 
 .single-product.woocommerce div.product .quantity .qty, #add_payment_method #payment, .woocommerce-checkout #payment, .single-product.woocommerce #reviews #comments ol.commentlist li{ background-color: #f3f3f3; } 
 .gdlr-core-product-grid .gdlr-core-product-title a, .gdlr-core-product-grid-3 .gdlr-core-product-title a{ color: #0f0f0f; } 
-.gdlr-core-product-grid .gdlr-core-product-title a:hover, , .gdlr-core-product-grid-3 .gdlr-core-product-title a:hover{ color: #3bcf93; } 
+.gdlr-core-product-grid .gdlr-core-product-title a:hover, .gdlr-core-product-grid-3 .gdlr-core-product-title a:hover{ color: #3bcf93; } 
 .gdlr-core-product-thumbnail .gdlr-core-product-view-detail, .gdlr-core-product-thumbnail .gdlr-core-product-view-detail:hover{ color: #ffffff; } 
 .gdlr-core-product-thumbnail .gdlr-core-product-view-detail{ background-color: #000000; background-color: rgba(0, 0, 0, 0.9); } 
 .gdlr-core-product-thumbnail .added_to_cart, .gdlr-core-product-thumbnail .added_to_cart:hover, .gdlr-core-product-thumbnail .gdlr-core-product-add-to-cart, .gdlr-core-product-thumbnail .gdlr-core-product-add-to-cart:hover{ color: #ffffff; } 

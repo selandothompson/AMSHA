@@ -622,7 +622,7 @@ table.frmaster-invoices-table th:nth-child(4){ width: 20%; }
 
 .frmaster-cause-donation-form .frmaster-cause-donation-form-button, 
 .frmaster-cause-donation-form input[type="text"]{ border-color: #2e2e2e; color: #2e2e2e; }
-.frmaster-cause-donation-form .frmaster-cause-donation-form-button.frmaster-active{ color: #fff; background-color: #3bcf93; border-color: #3bcf93; }
+.frmaster-cause-donation-form .frmaster-cause-donation-form-button.frmaster-active{ color: #fff; background-color: #586ba4; border-color: #586ba4; }
 
 /* widget */
 .frmaster-cause-widget .frmaster-cause-widget-thumbnail{ float: left; max-width: 75px; margin-right: 18px; }
