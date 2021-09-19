@@ -4699,6 +4699,14 @@ body.chariti-boxed .gdlr-core-column-extend-right .gdlr-core-pbf-background-wrap
 	margin-right: -50px;
 }
 
+/* Tint for hero images */
+
+.tint{
+	opacity:0.60;
+
+}
+
+
 
 /**
  * 6.0 - Responsive
