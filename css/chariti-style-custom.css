@@ -71,9 +71,9 @@ body.chariti-boxed .chariti-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
  .chariti-navigation .sf-vertical > li{ padding-top: 16px; padding-bottom: 16px; } 
 .chariti-header-style-bar .chariti-logo-right-text{ padding-top: 51px; } 
 .chariti-header-style-plain{ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); } 
-.chariti-logo{ padding-top: 55px; } 
-.chariti-logo{ padding-bottom: 60px; } 
-.chariti-logo-inner{ max-width: 183px; } 
+.chariti-logo{ padding-top: 10px; } 
+.chariti-logo{ padding-bottom: 10px; } 
+.chariti-logo-inner{ max-width: 120px; } 
 @media only screen and (max-width: 767px){ .chariti-mobile-header .chariti-logo-inner{ max-width: 130px; } } 
 .chariti-navigation{ padding-top: 25px; }.chariti-navigation-top{ top: 25px; } 
 .chariti-navigation .sf-menu > li > a{ padding-bottom: 28px; } 
@@ -91,7 +91,7 @@ body.chariti-boxed .chariti-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .chariti-animate-fixed-navigation.chariti-header-style-plain .chariti-navigation, .chariti-animate-fixed-navigation.chariti-header-style-boxed .chariti-navigation{ padding-top: 26px; }.chariti-animate-fixed-navigation.chariti-header-style-plain .chariti-navigation-top, .chariti-animate-fixed-navigation.chariti-header-style-boxed .chariti-navigation-top{ top: 26px; }.chariti-animate-fixed-navigation.chariti-navigation-bar-wrap .chariti-navigation{ padding-top: 26px; } 
 .chariti-animate-fixed-navigation.chariti-header-style-plain .chariti-navigation .sf-menu > li > a, .chariti-animate-fixed-navigation.chariti-header-style-boxed .chariti-navigation .sf-menu > li > a{ padding-bottom: 26px; }.chariti-animate-fixed-navigation.chariti-navigation-bar-wrap .chariti-navigation .sf-menu > li > a{ padding-bottom: 26px; }.chariti-animate-fixed-navigation .chariti-main-menu-right{ margin-bottom: 26px; } 
 .chariti-page-title-wrap.chariti-style-custom .chariti-page-title-content{ padding-top: 114px; } 
-.chariti-page-title-wrap.chariti-style-custom .chariti-page-title-content{ padding-bottom: 114px; } 
+.chariti-page-title-wrap.chariti-style-custom .chariti-page-title-content{ padding-bottom: 25px; padding-top: 25px; background-color: #586ba4; } 
 .chariti-page-title-wrap.chariti-style-custom .chariti-page-caption{ margin-top: 13px; } 
 .chariti-page-title-wrap .chariti-page-title{ text-transform: none; } 
 .chariti-page-title-wrap.chariti-style-custom .chariti-page-title{ font-size: 57px; } 
@@ -104,7 +104,7 @@ body.chariti-boxed .chariti-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .chariti-page-title-wrap .chariti-page-title-top-gradient{ height: 413px; } 
 .chariti-page-title-wrap .chariti-page-title-bottom-gradient{ height: 413px; } 
 .chariti-page-title-wrap .chariti-page-title-overlay{ opacity: 0; } 
-.chariti-page-title-wrap{ background-image: url(../upload/page-title-bg-1.jpg); } 
+.chariti-page-title-wrap{ background-image: url(../upload/page-title-bg-1.jpg); background:#586ba4; height: 200px; } 
 body.single-portfolio .chariti-page-title-wrap{ background-image: url(../upload/page-title-bg-1.jpg); } 
 body.single-personnel .chariti-page-title-wrap{ background-image: url(../upload/page-title-bg-2.jpg); } 
 body.single-cause .chariti-header-background-transparent{ background-image: url(../upload/page-title-bg-2.jpg); } 
