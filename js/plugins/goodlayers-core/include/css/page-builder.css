@@ -1388,7 +1388,7 @@
 
 .gdlr-core-blog-full{ margin-bottom: 80px; }
 .gdlr-core-style-blog-full-with-frame .gdlr-core-blog-full{ margin-bottom: 40px; overflow: hidden; border-style: solid; border-width: 0px; }
-.gdlr-core-blog-full .gdlr-core-blog-thumbnail{ margin-bottom: 44px; }
+.gdlr-core-blog-full .gdlr-core-blog-thumbnail{ margin-bottom: 44px; max-width: 900px; max-height: 500px; }
 .gdlr-core-blog-full .gdlr-core-blog-title{ font-size: 37px; font-weight: 700; margin-bottom: 14px; letter-spacing: 1px; }
 .gdlr-core-blog-full .gdlr-core-blog-content{ margin-bottom: 20px; }
 .gdlr-core-blog-full .gdlr-core-blog-full-head{ margin-bottom: 25px; }
@@ -2588,7 +2588,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2 li a:after{ content: "
 /* recent post widget */
 .gdlr-core-recent-post-widget-wrap.gdlr-core-style-1{ padding-top: 8px; }
 .gdlr-core-recent-post-widget-wrap.gdlr-core-style-1 .gdlr-core-recent-post-widget{ margin-bottom: 20px; }
-.gdlr-core-recent-post-widget-wrap.gdlr-core-style-1 .gdlr-core-recent-post-widget-thumbnail{ float: left; max-width: 75px; margin-right: 23px; }
+.gdlr-core-recent-post-widget-wrap.gdlr-core-style-1 .gdlr-core-recent-post-widget-thumbnail{ float: left; max-width: 150px; margin-right: 23px; }
 .gdlr-core-recent-post-widget-wrap.gdlr-core-style-1 .gdlr-core-recent-post-widget-title{ font-size: 16px; font-weight: 600; margin-bottom: 2px; margin-top: -5px; }
 .gdlr-core-recent-post-widget-wrap.gdlr-core-style-1 .gdlr-core-recent-post-widget-content{ overflow: hidden; }
 .gdlr-core-recent-post-widget-wrap.gdlr-core-style-1 .gdlr-core-blog-info{ display: inline-block; margin-right: 20px; font-size: 11px; line-height: 15px; text-transform: uppercase; letter-spacing: 0.5px; }
